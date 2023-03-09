@@ -17,9 +17,6 @@ git clone git@github.com:shreyanshgautam24/IndianGDP.git
 cd IndianGDP/
 poetry install
 poetry shell
-flask db init
-flask db migrate
-flask db upgrade
 flask run
 ```
 
