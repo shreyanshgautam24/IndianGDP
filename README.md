@@ -13,7 +13,7 @@ Prerequisite is that user should have python 3.8^ and poetry.
 
 ```sh
 git clone git@github.com:shreyanshgautam24/IndianGDP.git
-cd indiangdp/
+cd IndianGDP/
 poetry install
 poetry shell
 flask db init
