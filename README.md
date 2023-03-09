@@ -3,6 +3,7 @@
 Simple app to show indian GDP by python plotly and USD to INR currency conversion in latest rates with docker.
 
 ## Screenshots
+![Screenshot from 2023-03-10 01-31-58](https://user-images.githubusercontent.com/45899648/224157327-a601a5d2-17e7-46e3-a8a8-6e6e2a83dd3e.png)
 
 
 
